@@ -1,12 +1,12 @@
-*Superstore Sales Dashboard (Power BI)*
+# Superstore Sales Dashboard (Power BI)
 
-Overview
+## Overview
 
 This project presents an interactive sales dashboard built using Power BI to analyze the performance of a retail superstore. The dashboard provides insights into sales, profit, orders, and regional performance, helping businesses make data-driven decisions.
 
 The goal of this project is to demonstrate data visualization, business intelligence, and analytical skills using Power BI.
 
-Project Objectives
+## Project Objectives
 
 Analyze overall sales and profit performance
 
@@ -18,7 +18,7 @@ Track monthly sales trends
 
 Provide insights to help improve business decision making
 
-Tools & Technologies
+## Tools & Technologies
 
 Power BI
 
@@ -28,7 +28,7 @@ Data Cleaning & Transformation
 
 Data Visualization
 
-Dataset
+## Dataset
 
 The dataset used in this project is the Superstore Sales Dataset, which contains information about:
 
@@ -46,9 +46,9 @@ Profit
 
 Order Date
 
-Dashboard Features
+# Dashboard Features
 
-The Power BI dashboard includes:
+## The Power BI dashboard includes:
 
 KPI Cards
 
@@ -92,7 +92,7 @@ Track sales performance over time
 
 Analyze profitability by segment and region
 
-How to Use
+## How to Use
 
 Download the .pbix file from this repository
 
@@ -100,9 +100,7 @@ Open it in Power BI Desktop
 
 Explore the dashboard using interactive filters and visuals
 
-Learning Outcome
-
-Through this project, I practiced:
+## Learning Outcome
 
 Building interactive dashboards in Power BI
 
@@ -112,7 +110,7 @@ Transforming and cleaning data
 
 Presenting insights through data storytelling
 
-Author
+# Author
 
-Aadarsh Shukla
-Data Scientist
+## Aadarsh Shukla
+## Data Scientist
