@@ -112,4 +112,4 @@ Presenting insights through data storytelling
 
 # Author
 
-## Aadarsh Shukla (## Data Scientist)
+## Aadarsh Shukla (Data Scientist)
